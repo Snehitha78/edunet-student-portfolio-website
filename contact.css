@@ -1,0 +1,27 @@
+.container a{
+    text-decoration: none;
+    color: black;
+}
+.container a:hover{
+    text-decoration: underline;
+    color: blue;
+}
+a
+{
+    margin-right: 6px;
+}
+main{
+    margin-right: 30px;
+}
+nav{
+    margin-left: 70%;
+}
+#port
+{
+    font-size: 20px;
+}
+.ref i
+{
+    padding-top: 0px;
+    padding-bottom: 0px;
+}

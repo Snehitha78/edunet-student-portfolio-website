@@ -1,0 +1,70 @@
+ *{
+    font-family: sans-serif;
+}
+h1{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 100px;
+} 
+ul{
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row;
+}
+.details #box1{
+    height: 250px;
+    width: 250px;
+    padding: 10px;
+    border: 2px solid black;
+    margin: 20px;
+    font-size: 20px;
+    background-image: url(Srm.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background: transparent;
+
+}
+/* .details #box1::before{
+
+} */
+/* .details #box1:hover{
+    background: none;
+} */
+.details #box2{
+    height: 250px;
+    width: 250px;
+    padding: 10px;
+    border: 2px solid black;
+    margin: 20px;
+    font-size: 20px;
+
+}
+.details #box3{
+    height: 250px;
+    width: 250px;
+    padding: 10px;
+    border: 2px solid black;
+    margin:20px;
+    font-size: 20px;
+}
+a
+{
+    margin-right: 6px;
+}
+main{
+    margin-right: 30px;
+}
+nav{
+    margin-left: 70%;
+}
+#port
+{
+    font-size: 20px;
+}
+.ref i
+{
+    padding-top: 0px;
+    padding-bottom: 0px;
+}

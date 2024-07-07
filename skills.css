@@ -1,0 +1,45 @@
+body{
+    background-color: burlywood;
+}
+nav{
+    position:  relative;
+    width: 84%;
+    margin: auto;
+    padding: 20px 0;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+}
+nav .options2 ul li{
+    list-style: none;
+    display: inline-block;
+    justify-content: space-between;
+    margin: 10px 20px;
+}
+nav .options2 ul a{
+    color: #fff;
+    text-decoration: none;
+}
+nav .options2 ul a:hover{
+    color: black;
+    text-decoration: underline;
+}
+a
+{
+    margin-right: 6px;
+}
+main{
+    margin-right: 30px;
+}
+nav{
+    margin-left: 70%;
+}
+#port
+{
+    font-size: 20px;
+}
+.ref i
+{
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
